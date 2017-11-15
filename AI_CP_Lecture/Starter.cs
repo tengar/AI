@@ -24,12 +24,14 @@ namespace AI_CP_Lecture
             //  MagicSquare.Solve(6);
             // MagicSquare.Solve(7);
             //   Grocery.Solve();
+            Binoxxo.Solve(Binoxxo1);
+            Binoxxo.Solve(Binoxxo2);
 
             //KnightTour.Solve(6);
 
             //    Sudoku.Solve(Sudoku1);
             //    Sudoku.Solve(Sudoku2);
-            
+
             SumSudoku.Solve(SumFrameSudoku1);
 
             

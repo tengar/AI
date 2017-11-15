@@ -66,6 +66,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binoxxo.cs" />
     <Compile Include="Coloring.cs" />
     <Compile Include="Cryptogram.cs" />
     <Compile Include="MagicSquare.cs" />
